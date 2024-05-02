@@ -1,0 +1,17 @@
+{
+    "name": "tinov/beoordeling",
+    "autoload": {
+        "psr-4": {
+            "Beoordeling\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "tinovh",
+            "email": "9019926@student.zadkine.nl"
+        }
+    ],
+    "require-dev": {
+        "phpstan/phpstan": "^1.10"
+    }
+}

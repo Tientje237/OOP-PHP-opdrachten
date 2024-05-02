@@ -1,0 +1,11 @@
+{
+    "name": "tinov/oefenopdracht31",
+    "autoload": {
+        "psr-4": {
+            "Oefen35\\": "src/"
+        }
+    },
+    "require-dev": {
+        "phpstan/phpstan": "^1.10"
+    }
+}

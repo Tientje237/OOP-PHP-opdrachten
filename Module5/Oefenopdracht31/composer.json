@@ -1,0 +1,8 @@
+{
+    "name": "tinov/oefenopdracht31",
+    "autoload": {
+        "psr-4": {
+            "Oefen31\\": "src/"
+        }
+    }
+}
